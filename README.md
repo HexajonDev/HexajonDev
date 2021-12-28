@@ -10,5 +10,5 @@ You want it to be easily repairable.
 And if it is modifiable and extendable,
 it can truely last for ages.
 
-"It's better to design a good product once than to have a Million Products badly designed" 
+"It's better to design one good product once than to have a Million Products badly designed" 
 - Common Sence (2021)
