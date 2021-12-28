@@ -1,4 +1,4 @@
-Technology Products nowadays are designed for Profit and Profit alone.
+Technologie Products nowadays are designed for Profit and Profit alone.
 We here at Hexajon Developments follow a simple Principle:
 
 
